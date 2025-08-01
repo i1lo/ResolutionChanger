@@ -5,7 +5,7 @@
 ### 1. Download 
 
 ```bash
-git clone https://github.com/emptyhax/ResolutionChanger.git
+git clone https://github.com/6hax/ResolutionChanger.git
 ```
 ### 2. Build and Execute
 
