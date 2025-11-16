@@ -13,5 +13,5 @@ git clone https://github.com/6hax/ResolutionChanger.git
 bash build.sh
 ```
 ---
-[by hax (:](https://github.com/6hax)
+[by hax (:](https://github.com/i1lo)
 
